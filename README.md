@@ -1,8 +1,8 @@
 ```                                                           
-@@@@@@@@  @@@@@@@@  @@@ @@@  @@@@@@@   @@@  @@@  @@@@@@@   | Hello ;) im veda aka Zypher noir and I'm good at eating,sleeping,tkinter and drawing 
-@@@@@@@@  @@@@@@@@  @@@ @@@  @@@@@@@@  @@@  @@@  @@@@@@@@  |with the responsibility and maturity of a 12 year old.I create, break, and rebuild — 
+@@@@@@@@  @@@@@@@@  @@@ @@@  @@@@@@@   @@@  @@@  @@@@@@@   |Hello ;) im veda aka Zypher noir and I'm good at eating,sleeping,tkinter and drawing. 
+@@@@@@@@  @@@@@@@@  @@@ @@@  @@@@@@@@  @@@  @@@  @@@@@@@@  |I have the responsibility and maturity of a 12 year old.I create, break, and rebuild
      @@!  @@!       @@! !@@  @@!  @@@  @@!  @@@  @@!  @@@  |all while pretending to be functional
-    !@!   !@!       !@! @!!  !@!  @!@  !@!  @!@  !@!  @!@  |-=-=-=-=-=-=-={#}-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-
+    !@!   !@!       !@! @!!  !@!  @!@  !@!  @!@  !@!  @!@  |-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-{#}-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-
    @!!    @!!!:!     !@!@!   @!@@!@!   @!@!@!@!  @!@!!@!   !these are the languages i know 
   !!!     !!!!!:      @!!!   !!@!!!    !!!@!!!!  !!@!@!    !-python(with the front end like tkinter, pyqt, pyside6)
  !!:      !!:         !!:    !!:       !!:  !!!  !!: :!!   !-i know basic css and html
